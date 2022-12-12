@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinFirebase</string>
+    <string name="prefs_file">com.example.kotlinfirebase.PREFERENCE_FILE_KEY</string>
+    <string name="msg_token_fmt">tu token es: </string>
+</resources>
